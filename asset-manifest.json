@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/CardApp/static/js/main.c878129e.chunk.js",
+    "main.js.map": "/CardApp/static/js/main.c878129e.chunk.js.map",
+    "runtime-main.js": "/CardApp/static/js/runtime-main.571f817c.js",
+    "runtime-main.js.map": "/CardApp/static/js/runtime-main.571f817c.js.map",
+    "static/js/2.00fb91df.chunk.js": "/CardApp/static/js/2.00fb91df.chunk.js",
+    "static/js/2.00fb91df.chunk.js.map": "/CardApp/static/js/2.00fb91df.chunk.js.map",
+    "index.html": "/CardApp/index.html",
+    "static/js/2.00fb91df.chunk.js.LICENSE.txt": "/CardApp/static/js/2.00fb91df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.571f817c.js",
+    "static/js/2.00fb91df.chunk.js",
+    "static/js/main.c878129e.chunk.js"
+  ]
+}
