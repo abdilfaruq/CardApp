@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# CardApp
 **Card App** is the card my favorite players football app built using HTML, CSS, and ReactJS.
 
 ### Live Demo
